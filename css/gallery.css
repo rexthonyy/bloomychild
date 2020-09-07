@@ -10,151 +10,6 @@ section#body div#wideScreen section#heading{
 	padding-top: 130px;
 	padding-left: 120px;
 }
-section#body div#wideScreen section#heading div#ctaText{
-	font-size: 4em;
-	color: white;
-}
-section#body div#wideScreen section#heading div#ctaSubText{
-	font-size: 1.4em;
-	color: white;
-	width: 40%;
-	margin-top: 25px;
-}
-section#body div#wideScreen section#heading a button{
-	margin-top: 25px;
-	padding: 15px 35px;
-	border: 2px solid white;
-	font-size: 1.4em;
-	color: white;
-	background-color: transparent;
-	border-radius: 40px;
-}
-section#body div#wideScreen section#heading a button:hover{
-	background-color: rgb(33, 140, 255);;
-	color: white;
-	cursor: pointer;
-	transition: .4s;
-}
-section#body div#wideScreen section#whatWeDo{
-	padding: 70px 120px;
-	text-align: center;
-}
-section#body div#wideScreen section#whatWeDo table{
-	margin: 0px auto;
-	border-spacing: 30px 0px;
-}
-#whatWeDo table tr td{
-	width: 25%;
-	padding: 40px 20px;
-	border: 1px solid rgb(225, 226, 226);
-	border-radius: 2px;
-	background-color: white;
-}
-#whatWeDo table tr td h1{
-	margin-top: 20px;
-	font-size: 1.5em;
-	font-weight: normal;
-}
-#whatWeDo table tr td p{
-	margin-top: 20px;
-	font-size: 1em;
-	line-height: 1.5em;
-	color: rgb(125, 125, 125);
-}
-#whatWeDo table tr td div{
-	margin-top: 20px;
-}
-#whatWeDo table tr td div a:link, #whatWeDo table tr td div a:visited{
-	color: black;
-}
-#whatWeDo table tr td div a:hover, #whatWeDo table tr td div a:active{
-	color: orange;
-}
-#whatWeDo{
-	display: block;
-}
-#whatWeDo1{
-	display: none;
-}
-#whatWeDo2{
-	display: none;
-}
-#weUnderstand{
-	display: block;
-	padding: 70px 100px;
-	background-color: white;
-}
-#weUnderstand1{
-	display: none;
-}
-#weUnderstand table{
-	margin: 0px auto;
-	border-spacing: 50px 0px;
-}
-#weUnderstand table tr td{
-	vertical-align: top;
-}
-#weUnderstand table tr td h1{
-	margin-top: 2px;
-	font-size: 2.1em;
-	font-weight: bold;
-}
-#weUnderstand table tr td p{
-	margin-top: 30px;
-	font-size: 1.2em;
-	line-height: 1.6em;
-	color: rgb(125, 125, 125);
-}
-#weUnderstand table tr td table{
-	margin-top: 0px;
-	border-spacing: 0px 20px;
-	/*border: 1px solid brown;*/
-	width: 100%;
-}
-#weUnderstand table tr td table tr td{
-	vertical-align: top;
-	text-align: left;
-	font-size: 1.2em;
-	color: rgb(25, 25, 25);
-}
-#weUnderstand table tr td table tr td img{
-	margin-right: 5px;
-}
-#weUnderstand table tr td table{
-	border-spacing: 0px 20px;
-	width: 100%;
-}
-#achievement{
-	background-image: url("../images/pic_achievement_470x380.jpg");
-	background-color: rgb(112, 112, 112);
-	background-repeat: no-repeat;
-	background-size: cover;
-	padding: 80px 180px;
-	text-align: center;
-}
-#achievement1{
-	display: none;
-}
-#achievement table{
-	width: 100%;
-	color: white;
-}
-#achievement table tr td{
-	padding: 0px 20px;
-}
-#achievement table tr td img{
-	width: 64px;
-	height: 64px;
-}
-#achievement table tr td h1{
-	font-size: 4em;
-	margin-top: 12px;
-	font-weight: bold;
-}
-#achievement table tr td p{
-	font-size: 1.5em;
-	margin-top: 12px;
-}
 #ourProjects{
 	padding: 80px 120px 0px 120px;
 	text-align: center;
@@ -214,270 +69,45 @@ section#body div#wideScreen section#whatWeDo table{
 	margin: 10px 0px 0px 0px;
 }
 #ourProjects table tr:nth-child(1) td:nth-child(1) figure{
-	background-image: url("../images/pic_header_1_370x300.jpg");
+	background-image: url("../images/gallery/1.jpg");
 }
 #ourProjects table tr:nth-child(1) td:nth-child(2) figure{
-	background-image: url("../images/project_pic_1.jpg");
+	background-image: url("../images/gallery/2.jpg");
 }
 #ourProjects table tr:nth-child(1) td:nth-child(3) figure{
-	background-image: url("../images/pic_header_1_370x300.jpg");
+	background-image: url("../images/gallery/3.jpg");
 }
 #ourProjects table tr:nth-child(1) td:nth-child(4) figure{
-	background-image: url("../images/project_pic_1.jpg");
+	background-image: url("../images/gallery/4.jpg");
 }
-
 #ourProjects table tr:nth-child(2) td:nth-child(1) figure{
-	background-image: url("../images/project_pic_1.jpg");
+	background-image: url("../images/gallery/2.jpg");
 }
 #ourProjects table tr:nth-child(2) td:nth-child(2) figure{
-	background-image: url("../images/pic_header_1_370x300.jpg");
+	background-image: url("../images/gallery/1.jpg");
 }
 #ourProjects table tr:nth-child(2) td:nth-child(3) figure{
-	background-image: url("../images/project_pic_1.jpg");
+	background-image: url("../images/gallery/2.jpg");
 }
-
 #ourProjects table tr:nth-child(2) td:nth-child(4) figure{
-	background-image: url("../images/pic_header_1_370x300.jpg");
+	background-image: url("../images/gallery/3.jpg");
 }
-#testimonials{
-	padding: 80px 100px 20px 100px;
-	text-align: center;
-}
-#testimonials1{
-	display: none;
-}
-#testimonials2{
-	display: none;
-}
-#testimonials h1{
-	font-size: 2.1em;
-	font-weight: bold;
-}
-#testimonials p{
-	width: 80%;
-	margin: 30px auto 0px auto;
-	font-size: 1.2em;
-	line-height: 1.6em;
-	color: rgb(125, 125, 125); 
-}
-#testimonials table{
-	width: 100%;
-	margin: 40px auto 0px auto;
-	border-spacing: 20px 0px;
-	text-align: left;
-}
-#testimonials table tr td{
-	background-color: white;
-	border: 1px solid rgb(222, 222, 222);
-	vertical-align: bottom;
-	border-radius: 3px;
-	padding: 13px;
-	width: 25%;
-}
-#testimonials table tr td blockquote{
-	font-size: 1.2em;
-	color: rgb(105, 105, 105);
-	line-height: 1.8em;
-	background-image: url("../images/ic_quotation_mark.png");
-	background-repeat: no-repeat;
-}
-#testimonials table tr td table{
-	margin: 0px 0px;
-	margin-top: 10px;
-	border-spacing: 0px 0px;
-}
-#testimonials table tr td table tr td{
-	border: 0px solid transparent;
-}
-#testimonials table tr td table tr td img{
-	width: 49px;
-	height: 49px;
-	vertical-align: middle;
-	text-align: middle;
-}
-#testimonials table tr td table tr td{
-	vertical-align: middle;
-}
-#testimonials table tr td table tr td:nth-child(2){
-	padding-left: 0px;
-	width: 0px;
-}
-#testimonials table tr td table tr td:nth-child(2) h5{
-	font-size: 1em;
-}
-#testimonials table tr td table tr td:nth-child(2) p{
-	margin: 0px;
-	font-size: 0.9em;
-}
-
 @media (max-width: 1250px){
 	section#body div#wideScreen section#heading{
 		height: 500px;
 		padding-top: 130px;
 		padding-left: 80px;
 	}
-	section#body div#wideScreen section#heading div#ctaText{
-		font-size: 3.2em;
-	}
-	section#body div#wideScreen section#heading div#ctaSubText{
-		font-size: 1.4em;
-		margin-top: 24px;
-	}
-	section#body div#wideScreen section#heading a button{
-		margin-top: 24px;
-		padding: 14px 34px;
-		font-size: 1.4em;
-	}
-	section#body div#wideScreen section#whatWeDo{
-		padding: 60px 50px;
-	}
-	#weUnderstand{
-		padding: 60px 30px;
-	}
-	#weUnderstand table tr td p{
-		margin-top: 15px;
-		font-size: 1.2em;
-		line-height: 1.6em;
-	}
-	#achievement{
-		padding: 80px 120px;
-	}
 	#ourProjects{
 		padding: 80px 80px 0px 80px;
 	}
-	#testimonials{
-		padding: 80px 40px 20px 40px;
-	}
 }
 @media (max-width: 1100px){
-	#whatWeDo{
-		padding: 60px 30px;
-	}
-	#weUnderstand{
-		padding: 60px 10px;
-	}
-	#weUnderstand table tr td{
-		font-size: 0.9em;
-	}
-	#weUnderstand table tr td table tr td img{
-		margin-right: 0px;
-	}
-	#achievement{
-		padding: 80px 70px;
-	}
 	#ourProjects{
 		padding: 80px 40px 0px 40px;
 	}
 }
-@media (max-width: 950px){
-	#whatWeDo{
-		display: none;
-	}
-	#whatWeDo1{
-		display: block;
-		text-align: center;
-	}
-	#whatWeDo2{
-		display: none;
-	}
-	#whatWeDo1 table{
-		margin: 0px auto;
-		border-spacing: 30px 30px;
-	}
-	#whatWeDo1 table tr td{
-		width: 50%;
-		padding: 40px 20px;
-		border: 1px solid rgb(225, 226, 226);
-		border-radius: 2px;
-		background-color: white;
-	}
-	#whatWeDo1 table tr td h1{
-		margin-top: 20px;
-		font-size: 1.5em;
-		font-weight: normal;
-	}
-	#whatWeDo1 table tr td p{
-		margin-top: 20px;
-		font-size: 1em;
-		line-height: 1.5em;
-		color: rgb(125, 125, 125);
-	}
-	#whatWeDo1 table tr td div{
-		margin-top: 20px;
-	}
-	#whatWeDo1 table tr td div a:link{
-		color: black;
-	}
-	#whatWeDo1 table tr td div a:hover{
-		color: orange;
-	}
-	#weUnderstand{
-		display: none;
-	}
-	#weUnderstand1{
-		display: block;
-		padding: 50px 30px;
-		background-color: white;
-	}
-	#weUnderstand1 div:first-child{
-		height: 500px;
-		background-image: url("../images/pic_header_1_370x300.jpg");
-		background-color: rgb(112, 112, 112);
-		background-repeat: no-repeat;
-		background-size: cover;
-	}
-	#weUnderstand1 div h1{
-		margin-top: 20px;
-		font-size: 2.1em;
-		font-weight: bold;
-	}
-	#weUnderstand1 div p{
-		margin-top: 15px;
-		font-size: 1.2em;
-		line-height: 1.6em;
-		color: rgb(125, 125, 125);
-	}
-	#weUnderstand1 div table{
-		border: 1px solid transparent;
-		width: 100%;
-		border-spacing: 0px 20px;
-	}
-	#weUnderstand1 div table tr td{
-		font-size: 1.2em;
-		color: rgb(25, 25, 25);
-	}
-	#achievement{
-		display: none;
-	}
-	#achievement1{
-		display: block;
-		background-image: url("../images/pic_achievement_470x380.jpg");
-		background-color: rgb(112, 112, 112);
-		background-repeat: no-repeat;
-		background-size: cover;
-		padding: 50px 0px;
-		text-align: center;
-	}
-	#achievement1 table{
-		width: 100%;
-		color: white;
-	}
-	#achievement1 table tr td{
-		padding: 30px 0px;
-	}
-	#achievement1 table tr td img{
-		width: 64px;
-		height: 64px;
-	}
-	#achievement1 table tr td h1{
-		font-size: 4em;
-		margin-top: 12px;
-		font-weight: bold;
-	}
-	#achievement1 table tr td p{
-		font-size: 1.5em;
-		margin-top: 12px;
-	}	
+@media (max-width: 950px){	
 	#ourProjects{
 		display: none;
 	}
@@ -532,84 +162,28 @@ section#body div#wideScreen section#whatWeDo table{
 		margin: 10px 0px 0px 0px;
 	}
 	#ourProjects1 table tr:nth-child(1) td:nth-child(1) figure{
-		background-image: url("../images/pic_header_1_370x300.jpg");
+		background-image: url("../images/gallery/1.jpg");
+	}
+	#ourProjects1 table tr:nth-child(1) td:nth-child(2) figure{
+		background-image: url("../images/gallery/2.jpg");
+	}
+	#ourProjects1 table tr:nth-child(2) td:nth-child(1) figure{
+		background-image: url("../images/gallery/3.jpg");
 	}
 	#ourProjects1 table tr:nth-child(2) td:nth-child(2) figure{
-		background-image: url("../images/pic_header_1_370x300.jpg");
+		background-image: url("../images/gallery/4.jpg");
 	}
 	#ourProjects1 table tr:nth-child(3) td:nth-child(1) figure{
-		background-image: url("../images/pic_header_1_370x300.jpg");
+		background-image: url("../images/gallery/2.jpg");
+	}
+	#ourProjects1 table tr:nth-child(3) td:nth-child(2) figure{
+		background-image: url("../images/gallery/1.jpg");
+	}
+	#ourProjects1 table tr:nth-child(4) td:nth-child(1) figure{
+		background-image: url("../images/gallery/2.jpg");
 	}
 	#ourProjects1 table tr:nth-child(4) td:nth-child(2) figure{
-		background-image: url("../images/pic_header_1_370x300.jpg");
-	}
-	#testimonials{
-		display: none;
-	}
-	#testimonials1{
-		display: block;
-		padding: 80px 30px 20px 30px;
-		text-align: center;
-	}
-	#testimonials1 h1{
-		font-size: 2.1em;
-		font-weight: bold;
-	}
-	#testimonials1 p{
-		width: 80%;
-		margin: 30px auto 0px auto;
-		font-size: 1.2em;
-		line-height: 1.6em;
-		color: rgb(125, 125, 125); 
-	}
-	#testimonials1 table{
-		width: 100%;
-		margin: 40px auto 0px auto;
-		border-spacing: 20px 20px;
-		text-align: left;
-	}
-	#testimonials1 table tr td{
-		background-color: white;
-		border: 1px solid rgb(222, 222, 222);
-		vertical-align: bottom;
-		border-radius: 3px;
-		padding: 13px;
-		width: 25%;
-	}
-	#testimonials1 table tr td blockquote{
-		font-size: 1.2em;
-		color: rgb(125, 125, 125);
-		line-height: 1.8em;
-		background-image: url("../images/ic_quotation_mark.png");
-		background-repeat: no-repeat;
-	}
-	#testimonials1 table tr td table{
-		margin: 0px 0px;
-		margin-top: 10px;
-		border-spacing: 0px 0px;
-	}
-	#testimonials1 table tr td table tr td{
-		border: 0px solid transparent;
-	}
-	#testimonials1 table tr td table tr td img{
-		width: 49px;
-		height: 49px;
-		vertical-align: middle;
-		text-align: middle;
-	}
-	#testimonials1 table tr td table tr td{
-		vertical-align: middle;
-	}
-	#testimonials1 table tr td table tr td:nth-child(2){
-		padding-left: 0px;
-		width: 0px;
-	}
-	#testimonials1 table tr td table tr td:nth-child(2) h5{
-		font-size: 1em;
-	}
-	#testimonials1 table tr td table tr td:nth-child(2) p{
-		margin: 0px;
-		font-size: 0.9em;
+		background-image: url("../images/gallery/3.jpg");
 	}
 }
 @media (max-width: 900px){
@@ -617,18 +191,6 @@ section#body div#wideScreen section#whatWeDo table{
 		height: 390px;
 		padding-top: 100px;
 		padding-left: 40px;
-	}
-	section#body div#wideScreen section#heading div#ctaText{
-		font-size: 2.8em;
-	}
-	section#body div#wideScreen section#heading div#ctaSubText{
-		font-size: 1.1em;
-		margin-top: 18px;
-	}
-	section#body div#wideScreen section#heading a button{
-		margin-top: 18px;
-		padding: 14px 34px;
-		font-size: 1.1em;
 	}
 }
 @media (max-width: 750px){
@@ -641,64 +203,6 @@ section#body div#wideScreen section#whatWeDo table{
 		height: 250px;
 		padding-top: 70px;
 		padding-left: 20px;
-	}
-	section#body div#wideScreen section#heading div#ctaText{
-		font-size: 1.8em;
-	}
-	section#body div#wideScreen section#heading div#ctaSubText{
-		display: none;
-	}
-	section#body div#wideScreen section#heading a button{
-		margin-top: 24px;
-		padding: 6px 20px;
-		font-size: 1em;
-	}
-	section#body div#wideScreen section#whatWeDo{
-		padding: 20px 15px;
-	}
-	#whatWeDo{
-		display: none;
-	}
-	#whatWeDo1{
-		display: none;
-	}
-	#whatWeDo2{
-		display: block;
-		text-align: center;
-	}
-	#whatWeDo2 table{
-		margin: 0px auto;
-		border-spacing: 30px 30px;
-	}
-	#whatWeDo2 table tr td{
-		width: 100%;
-		padding: 40px 20px;
-		border: 1px solid rgb(225, 226, 226);
-		border-radius: 2px;
-		background-color: white;
-	}
-	#whatWeDo2 table tr td h1{
-		margin-top: 20px;
-		font-size: 1.5em;
-		font-weight: normal;
-	}
-	#whatWeDo2 table tr td p{
-		margin-top: 20px;
-		font-size: 1em;
-		line-height: 1.5em;
-		color: rgb(125, 125, 125);
-	}
-	#whatWeDo2 table tr td div{
-		margin-top: 20px;
-	}
-	#whatWeDo2 table tr td div a:link{
-		color: black;
-	}
-	#whatWeDo2 table tr td div a:hover{
-		color: orange;
-	}
-	#weUnderstand1 div:first-child{
-		height: 300px;
 	}
 	#ourProjects{
 		display: none
@@ -754,86 +258,28 @@ section#body div#wideScreen section#whatWeDo table{
 		margin: 10px 0px 0px 0px;
 	}
 	#ourProjects2 table tr:nth-child(1) td:nth-child(1) figure{
-		background-image: url("../images/pic_header_1_370x300.jpg");
+		background-image: url("../images/gallery/1.jpg");
+	}
+	#ourProjects2 table tr:nth-child(2) td:nth-child(1) figure{
+		background-image: url("../images/gallery/2.jpg");
 	}
 	#ourProjects2 table tr:nth-child(3) td:nth-child(1) figure{
-		background-image: url("../images/pic_header_1_370x300.jpg");
+		background-image: url("../images/gallery/3.jpg");
+	}
+	#ourProjects2 table tr:nth-child(4) td:nth-child(1) figure{
+		background-image: url("../images/gallery/4.jpg");
 	}
 	#ourProjects2 table tr:nth-child(5) td:nth-child(1) figure{
-		background-image: url("../images/pic_header_1_370x300.jpg");
+		background-image: url("../images/gallery/1.jpg");
+	}
+	#ourProjects2 table tr:nth-child(6) td:nth-child(1) figure{
+		background-image: url("../images/gallery/2.jpg");
 	}
 	#ourProjects2 table tr:nth-child(7) td:nth-child(1) figure{
-		background-image: url("../images/pic_header_1_370x300.jpg");
+		background-image: url("../images/gallery/3.jpg");
 	}
-	#testimonials{
-		display: none;
+	#ourProjects2 table tr:nth-child(8) td:nth-child(1) figure{
+		background-image: url("../images/gallery/4.jpg");
 	}
-	#testimonials1{
-		display: none;
-	}
-	#testimonials2{
-		display: block;
-		padding: 80px 10px 20px 10px;
-		text-align: center;
-	}
-	#testimonials2 h1{
-		font-size: 2.1em;
-		font-weight: bold;
-	}
-	#testimonials2 p{
-		width: 80%;
-		margin: 30px auto 0px auto;
-		font-size: 1.2em;
-		line-height: 1.6em;
-		color: rgb(125, 125, 125); 
-	}
-	#testimonials2 table{
-		width: 100%;
-		margin: 40px auto 0px auto;
-		border-spacing: 20px 20px;
-		text-align: left;
-	}
-	#testimonials2 table tr td{
-		background-color: white;
-		border: 1px solid rgb(222, 222, 222);
-		vertical-align: bottom;
-		border-radius: 3px;
-		padding: 13px;
-		width: 25%;
-	}
-	#testimonials2 table tr td blockquote{
-		font-size: 1.2em;
-		color: rgb(125, 125, 125);
-		line-height: 1.8em;
-		background-image: url("../images/ic_quotation_mark.png");
-		background-repeat: no-repeat;
-	}
-	#testimonials2 table tr td table{
-		margin: 0px 0px;
-		margin-top: 10px;
-		border-spacing: 0px 0px;
-	}
-	#testimonials2 table tr td table tr td{
-		border: 0px solid transparent;
-	}
-	#testimonials2 table tr td table tr td img{
-		width: 49px;
-		height: 49px;
-		vertical-align: middle;
-		text-align: middle;
-	}
-	#testimonials2 table tr td table tr td{
-		vertical-align: middle;
-	}
-	#testimonials2 table tr td table tr td:nth-child(2){
-		padding-left: 0px;
-		width: 0px;
-	}
-	#testimonials2 table tr td table tr td:nth-child(2) h5{
-		font-size: 1em;
-	}
-	#testimonials2 table tr td table tr td:nth-child(2) p{
-		margin: 0px;
-		font-size: 0.9em;
-	}
+	
 }
