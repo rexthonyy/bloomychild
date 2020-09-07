@@ -9,7 +9,7 @@
 body{
 	font-family: Verdana, Geneva, Arial, sans-serif;
 	font-size: small;
-	background-color: rgb(245, 246, 246);
+	background-color: rgb(205, 206, 256);
 }
 nav{
 	position: fixed;
@@ -89,7 +89,7 @@ footer section section:nth-child(2){
 footer section section header{
 	margin-bottom: 15px;
 	font-size: 1.5em;
-	color: white;
+	color: rgb(230, 12, 50);
 	letter-spacing: 0.1em;
 }
 footer section section p{

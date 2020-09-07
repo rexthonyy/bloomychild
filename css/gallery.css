@@ -2,7 +2,7 @@ section#body div#narrowScreen{
 	display: none;
 }
 section#body div#wideScreen section#heading{
-	background-image: url("../images/index/pic_index_header.jpg");
+	background-image: url("../images/gallery/pic_gallery_header.jpg");
 	background-color: rgb(112, 112, 112);
 	height: 550px;
 	background-repeat: no-repeat;
